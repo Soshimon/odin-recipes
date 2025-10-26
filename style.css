@@ -2,6 +2,37 @@
     font-family: Verdana, Tahoma, sans-serif;
 }
 
-.content {
-
+p {
+    font-size: 18px;
 }
+
+p.attribution {
+    font-size: 12px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.title {
+    border-bottom: 2px;
+    border-style: solid;
+    border-color: gray;
+    padding: 4px 12px;
+    background: beige;
+    width: 100%;
+}
+
+.description {
+    width: 1000px;
+    margin-left: 470px;
+    background: beige;
+}
+
+.content {
+    width: 600px;
+    margin-left: 470px;
+    background: beige;
+}
+
+
